@@ -1,5 +1,6 @@
+**This library is deprecated. Check the new library [`graphkit-learn`](https://github.com/jajupmochi/graphkit-learn).**
+
 # py-graph
-**This library is deprecated. Check the new library [`graphkit-learn`](https://github.com/jajupmochi/graphkit-learn)**
 
 [![Build Status](https://travis-ci.org/jajupmochi/py-graph.svg?branch=ljia)](https://travis-ci.org/jajupmochi/py-graph)
 [![codecov](https://codecov.io/gh/jajupmochi/py-graph/branch/ljia/graph/badge.svg)](https://codecov.io/gh/jajupmochi/py-graph)
